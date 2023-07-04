@@ -1,6 +1,3 @@
-# 💫 About Me:
-🔥 Tworzę DrugRPG <br>💚 Kminka<br>❤️ Koham p*zde 😍
-
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@W3ke) 
